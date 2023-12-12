@@ -1,1 +1,1 @@
-# Indian-Flood-Prediction
+# Prediction of Floods in India
