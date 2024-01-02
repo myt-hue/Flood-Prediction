@@ -14,15 +14,13 @@ null values were replaced by placeholder values of 'Unknown'.
 ### Humans are Displaced more due to Monsoonal Rains
 ![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/1cf9edf3-5923-4df6-895e-85de3c31887d)
 
-### Flood Status 
+### Flood Status in India
 ![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/d2041016-56ef-4f30-99b8-b4496b2bfbf6)
 
 ### Monsoonal Rains affect Coastal Regions
 ![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/b7083119-f186-4049-a87f-187495a979f9)
 
-### World Clouds for Descriptions in Extent of Damage column 
-![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/70d0aec0-e3b6-46c9-b877-c3b289fdba1a)
-'Damage' and 'villages' are the most common words
+### Modelling
 
 
 
