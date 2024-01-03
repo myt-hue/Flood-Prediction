@@ -37,6 +37,14 @@ RMSE: 58680
 AIC: 3895
 The ARIMA model was chosen because it had a better AIC and RMSE value.
 
+#### Autocorrelation Plot
+![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/3e83c74f-4ad6-48eb-a778-29249f85600b)
+ACF is consistent throughout multiple lags indicating the present values are strongly correlated with the past values
+
+
+
+
+
 
 
 
