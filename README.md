@@ -42,6 +42,12 @@ The ARIMA model was chosen because it had a better AIC and RMSE value.
 ACF is consistent throughout multiple lags indicating the present values are strongly correlated with the past values
 
 
+### Seasonality Decompostion
+![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/2cbf00e3-3d84-4ce1-8cb4-40ea81aa6787)
+After perfoming seasonality decomposition, January is the most frequent month for floods to occur
+
+
+
 
 
 
