@@ -50,8 +50,8 @@ After perfoming seasonality decomposition, January is the most frequent month fo
 
 ## Future Insights
  1. Perform Logistic Regression to predict Flood Severity
- 2. Local Government should  look into different types of Flood Reservoirs/Basins to capture excess water
- 3. Local Government should invest in better infrastructure for districts/villages more prone to floods
+ 2. Perform Time Series Analysis on Human and Animal Fatalitites
+ 3. Perform NLP Processing to analyze extent of Damage
 
 ## For more information
 Data taken from https://india.mongabay.com/2021/11/freely-available-geospatial-dataset-to-make-flood-research-easier/
