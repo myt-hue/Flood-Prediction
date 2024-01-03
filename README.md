@@ -47,6 +47,12 @@ ACF is consistent throughout multiple lags indicating the present values are str
 After perfoming seasonality decomposition, January is the most frequent month for floods to occur
 
 
+## Future Insights
+ 1. Perform Logistic Regression to predict Flood Severity
+ 2. Local Government should  look into different types of Flood Reservoirs/Basins to capture excess water
+ 3. Local Government should invest in better infrastructure for districts/villages more prone to floods
+
+## For more information
 
 
 
@@ -77,7 +83,7 @@ After perfoming seasonality decomposition, January is the most frequent month fo
 
 
 
-## Furthur Insights
 
-## For more Information
+
+
 
