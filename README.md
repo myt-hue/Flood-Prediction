@@ -54,9 +54,8 @@ After perfoming seasonality decomposition, January is the most frequent month fo
  3. Local Government should invest in better infrastructure for districts/villages more prone to floods
 
 ## For more information
+Data taken from https://india.mongabay.com/2021/11/freely-available-geospatial-dataset-to-make-flood-research-easier/
 
-
-## Repository Structure
 ## Repository Structure
 
 You are currently in the README.md file. The 'index.ipynb' file contains the jupyter notebook of the explaratory analysis of the given data that provides step-by-step guide to how we came to our conclusion. 'Images' file contains the images used in this file. The images were taken from the internet.
