@@ -10,17 +10,39 @@ null values were replaced by placeholder values of 'Unknown'.
 
 ## Data Analysis 
 
-## Exploratory Data Analysis:
-### Humans are Displaced more due to Monsoonal Rains
+### Exploratory Data Analysis:
+#### Humans are Displaced more due to Monsoonal Rains
 ![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/1cf9edf3-5923-4df6-895e-85de3c31887d)
 
-### Flood Status in India
+#### Flood Status in India
 ![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/d2041016-56ef-4f30-99b8-b4496b2bfbf6)
 
-### Monsoonal Rains affect Coastal Regions
+#### Monsoonal Rains affect Coastal Regions
 ![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/b7083119-f186-4049-a87f-187495a979f9)
 
 ### Modelling
+'Area Affected'  was used as the y variable for Time Series Analysis as it showed a yearly trend. Furthur, the data was resampled monthly to reduce noise in data. An Exponenetial Moving Average
+(EMA) was applied to smoothen the data (make it more stationary) and apply weight on more recent data points. 
+
+#### Naive Model 
+![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/5f17b2fb-ba5e-41c7-a7f8-2b87288abff9)
+RMSE: 58793 
+
+#### ARIMA Model 
+RMSE: 55214 
+AIC: 3878
+
+#### Random Walk Model
+RMSE: 58680
+AIC: 3895
+The ARIMA model was chosen because it had a better AIC and RMSE value.
+
+
+
+
+
+
+
 
 
 
