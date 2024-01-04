@@ -6,7 +6,7 @@
 ## Business Problem
 Floods rank among the most destructive natural calamities, and India faces a substantial impact due to the increasing frequency and severity of floods. This leads to tragic consequences, with certain regions experiencing more pronounced damage, contributing to the loss of lives and livelihoods.
 ## Data Understanding
-The data was taken from MongoBay- Freely available spatial dataset to make Flood Research easier. The data was filtered by major causes of floods. The top 2 causes of Floods were ranked by the number of humans diplaced. Duplicates were removed. For time series analysis, the dates were all converted to datetime, and the dataset is furthur filtered by Year after 2000.  Addionally, all the
+The data was taken from MongoBay- Freely available spatial dataset to make Flood Research easier. The data was filtered by major causes of floods. The top 2 causes of Floods were ranked by the number of humans displaced. Duplicates were removed. For time series analysis, the dates were all converted to datetime, and the dataset is furthur filtered by Year after 2000.  Addionally, all the
 null values were replaced by placeholder values of 'Unknown'.
 
 ## Data Analysis 
@@ -46,6 +46,9 @@ ACF is consistent throughout multiple lags indicating the present values are str
 ### Seasonality Decompostion
 ![image](https://github.com/myt-hue/Flood-Prediction/assets/73657823/2cbf00e3-3d84-4ce1-8cb4-40ea81aa6787)
 After perfoming seasonality decomposition, January is the most frequent month for floods to occur
+
+## Conclusions
+Greater Area per square foot got destroyed as the duration of the flood increased
 
 
 ## Future Insights
